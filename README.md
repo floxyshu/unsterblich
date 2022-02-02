@@ -6,6 +6,9 @@
 - Proje karşılığında hiçbir şey istemiyorum ama aldığınız zamanda benden olduğuna dair ufak bir imza bırakırsanız sevinirim.
 - Projeyi Public ve Ekip olarak iki ayrı sisteme ayıracağım, ilginiz için teşekkürler iyi günler :)
 
+# Ufak bilgilendirme
+Projeyi güncel tutacağım ama bu hafta tatilde olduğum için proje en geç pazartesi gününe kadar boş kalacak, özür diliyor iyi günler diliyorum.
+
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 
 ![version: 1.0](https://img.shields.io/badge/Version-1.0-informational&color=yellow)&nbsp;
